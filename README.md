@@ -3,7 +3,7 @@
 
 World's Best Employer
 
-As I am looking for data to practice advance data visualizations in #powerbi, I found this very exciting data complied by Statista, a business that conducts market research, and Forbes. In this data they have collaborated to publish our sixth annual list of the world's best employers. In order to assess which organizations excel in corporate influence and image, talent development, gender equality, and social responsibility, Statista polled 150,000 full-time and part-time employees from 57 countries who work for global corporations and institutions.
+As I was looking for data to practice advance data visualizations in #powerbi, I found this very exciting data complied by Statista, a business that conducts market research, and Forbes. In this data they have collaborated to publish our sixth annual list of the world's best employers. In order to assess which organizations excel in corporate influence and image, talent development, gender equality, and social responsibility, Statista polled 150,000 full-time and part-time employees from 57 countries who work for global corporations and institutions.
 
 I want to share my latest #powerbi visualisation I have made. 
 
